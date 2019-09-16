@@ -1,0 +1,19 @@
+Class: Boat
+
+Instance: sail boat
+
+passengerCapacity = 12
+color = "white"
+length = 50
+name (string) = "Malibu Maker"
+passengers = 5
+anchored = no
+
+Instance: wakeboard boat
+
+passengerCapacity = 8
+color = "blue"
+length = 35
+name (string) = "I Can Sea It In Your Eyes"
+passengers = 8
+anchored = no
