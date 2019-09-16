@@ -1,0 +1,55 @@
+Making a sandwich
+
+1. Make bread
+  1.1 Combine ingredients
+    1.1.1 Get a bowl
+      1.1.1.1 Add water
+      1.1.1.2 Add yeast
+      1.1.1.3 Add flour
+  1.2 Mix ingredients
+    1.2.1 Get large spoon
+    1.2.2 Stir until combined
+  1.3 Knead the bread
+  1.4 Let rest
+  1.5 Bake bread
+    1.5.1 Pre-heat oven
+      1.5.1.1 Set oven to specified temperature
+      1.5.1.2 Wait for oven to finish pre-heating
+    1.5.2 Put dough in oven
+      1.5.2.1 Set timer for 25 minutes
+      1.5.2.2 Remove finished bread once timer is finished
+2. Add filling
+  2.1 Slice bread lengthwise
+    2.1.1 Part bread using fingers
+  2.2 Add condiments
+    2.2.1 Select condiment
+      2.2.1.1 Add condiment to bread
+      2.2.1.2 Get knife
+      2.2.1.3 Use knife to spread condiment on bread
+  2.3 Add meat
+    2.3.1 Select meat type
+    2.3.2 Slice meat into thin pieces
+    2.3.3 Add meat slices to sandwich
+  2.4 Add veggies
+    2.4.1 Add lettuce
+      2.4.1.1 Get lettuce from fridge
+      2.4.1.2 Use knife to chop lettuce
+      2.4.1.3 Add lettuce to sandwich
+    2.4.2 Add tomatoes
+      2.4.2.1 Get tomatoes from fridge
+      2.4.2.2 Use knife to chop tomatoes
+      2.4.2.3 Add tomatoes to sandwich
+    2.4.3 Add onion
+      2.4.3.1 Get onion from fridge
+      2.4.3.2 Use knife to chop onion
+      2.4.3.3 Add onion to sandwich
+  2.5 Add cheese
+3. Serve sandwich
+  3.1 Cut sandwich in half
+    3.1.1 Get knife
+    3.1.2 Locate middle of sandwich
+    3.1.3 Slice sandwich with knife
+  3.2 Put sandwich on plate
+    3.2.1 Get plate
+    3.2.2 Pick up sandwich with hands
+    3.2.3 Put on plate
