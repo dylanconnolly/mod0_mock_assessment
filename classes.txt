@@ -1,0 +1,16 @@
+Class: Boat
+
+Attributes:
+passengerCapacity (integer)
+color (string)
+length (integer)
+name (string)
+passengers (integer)
+anchored (boolean)
+
+Methods:
+paintJob (changes color attribute)
+dropAnchor (changes anchored attribute to 'true')
+openSeats (subtracts passengers from passengerCapacity)
+rename (changes name attribute)
+addPassenger (if passengers < passengerCapacity, adds +1 to passengers attribute)
